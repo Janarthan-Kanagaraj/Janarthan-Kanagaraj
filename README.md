@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthan-kanagaraj&show_icons=true&locale=en" alt="janarthan-kanagaraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janarthan-kanagaraj&" alt="janarthan-kanagaraj" /></p>
+
+<img alt="My GIF" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;">
